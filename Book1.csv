@@ -1,0 +1,325 @@
+Name,StudentID,Join Date,Are you a domestic or international student?,Are you an Undergraduate or Graduate student?,Date of Birth (dd/mm/yyyy format)
+"Abeyratne, Tharindu",1614607,13 Mar 2024 11:33,Domestic,Undergraduate student,08/08/2005
+"Abusah, Sarah",1338442,20 Feb 2024 23:21,Domestic,Undergraduate student,13/09/2004
+"Agarwal, Akanksha",1152955,25 Feb 2024 21:59,International,Undergraduate student,30/08/2001
+"Ahmed, Omar Hani",1197816,20 Feb 2024 15:18,International,Undergraduate student,30/08/2001
+"Ahuja, Kairav",1463887,24 Feb 2024 14:59,Domestic,Undergraduate student,26/02/2005
+"Ali, Syeda Hafsa",1144450,26 Feb 2024 09:57,International,Graduate student,10/06/1991
+"Ang, Zhi Jian Damyan",1409618,09 Mar 2024 23:23,International,Undergraduate student,28/01/1999
+"Arnott-Tan, Anshan",1355889,21 Feb 2024 11:03,Domestic,Undergraduate student,17/12/2003
+"Asher, Sheema",1615515,06 Feb 2024 00:45,Domestic,Undergraduate student,10/02/2005
+"Ashok Raj Kumar, Prathiksha",1452735,04 Mar 2024 16:55,Domestic,Undergraduate student,25/06/2004
+"Aye, Lynn",1397463,23 Feb 2024 18:29,International,Undergraduate student,21/09/2004
+"Azari Pour, Shay",1317598,23 Feb 2024 15:08,Domestic,Undergraduate student,26/08/2003
+"Bachhar, Sayan",1413063,19 Feb 2024 11:08,International,Graduate student,06/12/1996
+"Bagdi, Vinayak",1579817,23 Feb 2024 16:46,Domestic,Undergraduate student,06/11/2003
+"Balyan, Tavish",1615873,28 Feb 2024 10:57,Domestic,Undergraduate student,14/12/2006
+"Bangun, Ezra",872876,24 Feb 2024 19:47,Domestic,Graduate student,07/12/1999
+"Barahate, Sachi Sheshrao",1285321,20 Feb 2024 17:05,International,Graduate student,28/09/1996
+"Behera, Ankit",1445450,19 Feb 2024 13:13,Domestic,Undergraduate student,11/09/2005
+"Bhar, Avjay",1472729,19 Feb 2024 16:19,Domestic,Undergraduate student,28/09/2004
+"Black, Thomas",1172648,26 Feb 2024 18:49,Domestic,Graduate student,09/01/2001
+"Bond, Connor",880615,06 Mar 2024 17:26,Domestic,Graduate student,05/05/1999
+"Botham, William",1084409,25 Feb 2024 14:45,Domestic,Graduate student,28/10/1999
+"Brooks, Leo",1353277,26 Feb 2024 01:01,Domestic,Undergraduate student,09/05/2003
+"Bui, Steven",1385532,01 Mar 2024 11:33,International,Undergraduate student,08/10/2004
+"Cai, Jiawei",1532072,23 Feb 2024 23:58,International,Undergraduate student,12/03/2004
+"Calf, Joseph",1086132,16 Feb 2024 15:35,Domestic,Graduate student,19/08/1996
+"Castro, Eugene",1270097,05 Mar 2024 23:46,Domestic,Undergraduate student,22/07/2002
+"Chan, Angus",1469043,19 Feb 2024 15:24,International,Undergraduate student,11/08/2004
+"Chan, Mary",1427107,21 Feb 2024 13:49,Domestic,Graduate student,02/07/1995
+"Chan, Sher-Wen",1625400,19 Feb 2024 16:22,Domestic,Undergraduate student,27/05/2005
+"Chang, Nicholas",1617632,19 Feb 2024 16:31,Domestic,Undergraduate student,28/06/2005
+"Chau, Clement",1450708,21 Feb 2024 01:37,Domestic,Undergraduate student,12/11/2005
+"Chauhan, Soaham",1617136,21 Feb 2024 12:25,Domestic,Undergraduate student,27/05/2005
+"Chen, Angela",1479408,29 Feb 2024 20:08,Domestic,Undergraduate student,01/12/2004
+"Chen, Geoffrey",1616438,21 Feb 2024 20:41,Domestic,Undergraduate student,31/10/2005
+"Chen, Hsien-Wei",1615548,21 Feb 2024 13:42,Domestic,Undergraduate student,04/01/2004
+"Chen, James",1270713,07 Mar 2024 19:30,Domestic,Undergraduate student,30/07/2002
+"Chen, Johnny",1604615,21 Feb 2024 12:32,Domestic,Undergraduate student,25/03/2006
+"Cheng, Ethan",1473001,22 Feb 2024 19:01,Domestic,Undergraduate student,25/10/2004
+"Cheng, Matthew",1293516,19 Feb 2024 13:52,Domestic,Undergraduate student,25/01/2003
+"Cheng, Ziyi",1616322,24 Feb 2024 18:05,Domestic,Undergraduate student,15/11/2005
+"Chin, Jun Being",1388664,29 Feb 2024 18:24,International,Undergraduate student,08/04/2003
+"Chodhary, Mukul",1172562,01 Mar 2024 20:59,Domestic,Graduate student,03/07/1899
+"Choi, Thomas",1202247,27 Feb 2024 23:42,International,Graduate student,07/03/2002
+"CHONGDER, SHUBHAMENDRA PRASAD",1411556,10 Mar 2024 14:49,International,Graduate student,06/12/1999
+"Chopra, Piyush",1616837,23 Feb 2024 23:57,Domestic,Undergraduate student,20/05/2005
+"Choudhury, Prachee",1365743,21 Feb 2024 15:56,Domestic,Undergraduate student,20/07/2003
+"Chu, Ba Quyen",1378885,20 Feb 2024 03:26,International,Undergraduate student,04/01/2004
+"Collins, Matthew",1378483,19 Feb 2024 16:18,Domestic,Undergraduate student,04/05/1996
+"Cornelius, Eunico",1443427,28 Feb 2024 18:42,International,Graduate student,27/05/1997
+"DAS, ARJA",1336044,28 Feb 2024 02:30,International,Undergraduate student,17/12/2004
+"Davine, Lance",1462196,08 Mar 2024 09:43,Domestic,Undergraduate student,22/05/2004
+"Davis-Tope, Charlie",1268754,21 Feb 2024 12:35,Domestic,Undergraduate student,02/08/2001
+"Dekker, Annabel",1480397,20 Feb 2024 12:02,Domestic,Undergraduate student,02/05/2005
+"Deng, Yuteng",1610100,21 Feb 2024 12:17,International,Undergraduate student,25/12/2004
+"Deshpande, Ishan",1616766,21 Feb 2024 12:11,Domestic,Undergraduate student,20/11/2005
+"Devnani, Ritu Gopal",1469508,02 Feb 2024 15:36,International,Graduate student,23/08/2001
+"Dissanayake Mudiyanselage, Nadeeshan",1525488,21 Feb 2024 00:21,International,Graduate student,02/07/1996
+"Do, Aaron",1327591,19 Feb 2024 15:08,Domestic,Undergraduate student,01/12/2004
+"Drakatos, James",1617312,27 Feb 2024 20:57,Domestic,Undergraduate student,20/06/2005
+"Du, Qiongzhou",1461950,21 Feb 2024 18:39,Domestic,Undergraduate student,18/09/2004
+"DU, Yicheng",1470003,29 Feb 2024 15:46,International,Graduate student,01/08/2000
+"Duong, Tristan",1614987,08 Mar 2024 23:35,Domestic,Undergraduate student,16/11/2005
+"Durow, Jack",1451261,21 Feb 2024 16:41,Domestic,Undergraduate student,26/08/2006
+"Edmunds, Lucas",1454101,11 Feb 2024 13:53,Domestic,Graduate student,14/12/1995
+"Fan, Kate",1266558,19 Feb 2024 12:57,Domestic,Undergraduate student,08/08/2002
+"Farul Azim, Alif",1506136,24 Feb 2024 22:47,Domestic,Undergraduate student,06/07/2004
+"Forbes, Lachlan",1615311,08 Mar 2024 13:59,Domestic,Undergraduate student,16/03/2006
+"Fortoul, Thomas",1581130,27 Feb 2024 17:06,International,Undergraduate student,08/12/2003
+"Frew, Oktavius",1441846,27 Feb 2024 09:36,Domestic,Undergraduate student,10/05/2005
+"Gan, Anna",1579818,28 Feb 2024 23:17,International,Graduate student,28/07/1999
+"Gao, Shuyuan",1267904,21 Feb 2024 21:49,International,Undergraduate student,26/03/2002
+"Gee, Lok Hei",1562151,27 Feb 2024 18:50,International,Undergraduate student,02092001
+"Gerstel, Jake",1579814,20 Feb 2024 13:27,Domestic,Graduate student,26/03/1996
+"Goryachev, Alexander",1485329,29 Feb 2024 01:31,Domestic,Undergraduate student,13/06/2004
+"Green, Ethan",1462039,21 Feb 2024 23:24,Domestic,Undergraduate student,28/05/2005
+"Gregory, Liam",1615505,21 Feb 2024 12:09,Domestic,Undergraduate student,17/02/2005
+"Gu, Sicheng",1455678,22 Feb 2024 16:28,Domestic,Undergraduate student,03/04/2004
+"Guan, Toby",1266470,29 Feb 2024 13:15,Domestic,Undergraduate student,14/09/2002
+"GUI, Wangpeng",1144807,15 Feb 2024 09:48,International,Graduate student,11/05/2000
+"Gunawan, Kerri Maria",1562485,21 Feb 2024 12:27,International,Undergraduate student,09/05/2005
+"Gunn, ",1534554,20 Feb 2024 11:49,International,Undergraduate student,06/04/2005
+"Guo, Teresa Yu Xin",1463564,03 Mar 2024 23:24,Domestic,Undergraduate student,08/09/2004
+"Gupta, Jahnvi",1383670,13 Mar 2024 00:25,International,Undergraduate student,10/05/2004
+"Hasan, Abbas",1616402,05 Feb 2024 11:18,Domestic,Undergraduate student,19/12/2004
+"He, Cathy",1046173,23 Feb 2024 17:41,Domestic,Graduate student,22/05/1998
+"Hider, Lawrence",1604674,21 Feb 2024 12:11,Domestic,Undergraduate student,23/11/2005
+"Ho, Tuka",1333818,20 Feb 2024 01:00,International,Undergraduate student,22/07/2003
+"Ho, Zachary",1624854,20 Feb 2024 20:42,Domestic,Undergraduate student,12/09/2005
+"Hoang, Minh",1521988,24 Feb 2024 00:41,International,Graduate student,01/09/2001
+"Howells, Cinque",1265125,20 Feb 2024 19:28,Domestic,Undergraduate student,08/06/2003
+"HSU, HAN-FONG",1474669,21 Feb 2024 11:04,International,Undergraduate student,02/08/2005
+"HU, JUNLANG",1461262,08 Mar 2024 13:26,Domestic,Undergraduate student,07/02/2005
+"Hu, Zixin",1600986,27 Feb 2024 19:51,International,Undergraduate student,23/10/2003
+"Huang, Felix",1624966,19 Feb 2024 16:21,Domestic,Undergraduate student,17/11/2005
+"Huynh, Anton",1460106,23 Feb 2024 00:15,Domestic,Undergraduate student,06/08/2004
+"Ibrahim, Ibrahim",1442798,21 Feb 2024 14:30,International,Graduate student,20/05/1993
+"IBRAHIM, MUHAMMAD RASYID KAFIF",1547559,21 Feb 2024 12:19,International,Graduate student,16/02/2001
+"Indradjaja, Robertus",1278736,12 Mar 2024 20:55,International,Undergraduate student,08/04/2003
+"Iqbal, Raiyan",1361607,07 Feb 2024 04:23,Domestic,Undergraduate student,16/5/2003
+"Iskandar, Kurnia Khairunnisaa",1491808,22 Feb 2024 14:58,International,Undergraduate student,20/09/1997
+"James, Caerwyn",1516512,27 Feb 2024 11:03,Domestic,Undergraduate student,16/12/2005
+"Jiang, Ling",1346494,29 Feb 2024 16:54,International,Undergraduate student,08012003
+"Jiang, Michael",1468806,04 Mar 2024 16:34,Domestic,Undergraduate student,12/08/2005
+"Jones, Joshua",1462105,19 Feb 2024 21:00,Domestic,Undergraduate student,19/01/20005
+"Joshi, Sahil",1277465,24 Feb 2024 17:41,Domestic,Graduate student,03/03/2003
+"Kadam, Tarish",1141070,23 Feb 2024 15:04,International,Undergraduate student,08/05/2000
+"Kafle, Bibidh",1614959,24 Feb 2024 12:35,Domestic,Undergraduate student,25/09/2005
+"Kannan Priya, Vishwa",1462082,15 Feb 2024 14:29,Domestic,Undergraduate student,27/06/2004
+"KANNAN, HARISH",1534410,21 Feb 2024 13:32,International,Graduate student,25/02/2002
+"Kasikumpaiboon, Dorn",1380935,22 Feb 2024 12:32,International,Undergraduate student,22/10/2002
+"Kazmi, Zainab",1425819,20 Feb 2024 03:06,International,Undergraduate student,21/10/2003
+"Khalid, Saleha",1122166,13 Mar 2024 18:11,International,Undergraduate student,19/09/2001
+"KIM, JUGYEONG",1558392,26 Feb 2024 01:06,International,Graduate student,12/11/1999
+"KIM, Minseok",1366363,20 Feb 2024 20:47,International,Undergraduate student,21/07/2003
+"King, Brian",1537997,04 Feb 2024 21:51,International,Graduate student,08/03/2002
+"Kohli, Andre",1616216,08 Mar 2024 10:33,Domestic,Undergraduate student,27/12/2006
+"Kwan, Kaylene Ka Lin",1364901,27 Feb 2024 11:18,International,Undergraduate student,11/06/2004
+"Lai, Jyun-Ning",1503942,21 Feb 2024 19:47,International,Graduate student,03/09/1996
+"Lai, Natalie",1615689,20 Feb 2024 14:01,Domestic,Undergraduate student,09/06/2005
+"Lam, Alex",1463290,22 Feb 2024 21:04,Domestic,Undergraduate student,08/12/2004
+"Lambrianidis, Matthew",1071793,26 Feb 2024 12:01,Domestic,Graduate student,20/06/2001
+"Lang, Lezhou",1271658,08 Feb 2024 20:23,Domestic,Graduate student,14/06/2002
+"Lang, Victor",1615832,21 Feb 2024 11:52,Domestic,Undergraduate student,26/05/2005
+"Langdon, Harrison",1272220,22 Feb 2024 17:35,Domestic,Undergraduate student,24/10/2001
+"Le, Anna",1460978,03 Mar 2024 20:06,Domestic,Undergraduate student,30/12/2004
+"Le, Hoang Nam",1317049,03 Feb 2024 04:01,International,Undergraduate student,14/05/2004
+"Le, Julia",1356562,26 Feb 2024 19:37,Domestic,Undergraduate student,11/06/2003
+"Le, My Tam",1443364,29 Feb 2024 14:53,International,Undergraduate student,24/09/2005
+"Le, Thi Viet Huong",1600943,05 Feb 2024 00:23,International,Undergraduate student,13/06/2005
+"Le, Toan",1539211,20 Feb 2024 00:31,International,Undergraduate student,20/10/2005
+"Lee, Elyse",1473485,19 Feb 2024 17:31,Domestic,Undergraduate student,29/10/2004
+"Lee, Ji Sung",1275609,20 Feb 2024 00:18,International,Undergraduate student,21/06/2000
+"Lee, Pandy",1374192,04 Mar 2024 18:24,Domestic,Graduate student,07/10/1996
+"Lee, Selena",1083208,16 Feb 2024 18:37,Domestic,Undergraduate student,08/01/2001
+"Lekkala, Apurva",1616156,03 Mar 2024 21:29,Domestic,Undergraduate student,24/07/2006
+"Leong, Matthew",1622020,07 Mar 2024 14:08,International,Undergraduate student,09/06/2006
+"Leow, Joshua Xin Hui",1592178,08 Mar 2024 15:48,International,Undergraduate student,13/06/2005
+"Li Lin, Koquiun",1319881,25 Feb 2024 17:40,International,Undergraduate student,07/11/2001
+"Li, Amy",1480447,25 Feb 2024 10:17,Domestic,Undergraduate student,06/04/2005
+"Li, Debao",1624858,23 Feb 2024 23:50,Domestic,Undergraduate student,22/12/2005
+"Li, Duyi",1609966,23 Feb 2024 09:12,International,Undergraduate student,25/02/2005
+"Li, Shon",1460379,13 Mar 2024 13:08,Domestic,Undergraduate student,13/10/2004
+"LI, Taimin",1536180,13 Mar 2024 02:40,International,Undergraduate student,01032002
+"Li, Tianhao",1615981,19 Feb 2024 14:02,Domestic,Undergraduate student,26/11/2005
+"LIAO, Ziang",1412182,28 Feb 2024 22:25,International,Undergraduate student,16/06/2002
+"Lin, Rongcong",1520403,25 Feb 2024 14:26,International,Graduate student,17/07/2001
+"Lin, Yin-Xi Chloe",1450680,05 Mar 2024 22:47,International,Undergraduate student,27/05/2004
+"Lin, Yueqi",1078206,24 Feb 2024 17:47,Domestic,Undergraduate student,02/08/2000
+"Liu, Amy",1616623,22 Feb 2024 11:39,Domestic,Undergraduate student,12/07/2005
+"Liu, James",1340717,29 Feb 2024 12:48,Domestic,Undergraduate student,19/01/2004
+"Liu, Jiayi",1497023,25 Feb 2024 22:16,International,Undergraduate student,22/07/2002
+"Liu, Leo",1616938,19 Feb 2024 13:30,Domestic,Undergraduate student,13/08/2005
+"Liu, Phil",1300443,06 Mar 2024 11:32,Domestic,Undergraduate student,03/10/2003
+"Low, Ming Han",1338244,25 Feb 2024 12:44,Domestic,Undergraduate student,27/11/2004
+"Low, Sean Zhongming",1331332,17 Feb 2024 11:55,Domestic,Undergraduate student,06/03/2004
+"Lu, Adam",1617087,21 Feb 2024 22:24,Domestic,Undergraduate student,06/09/2005
+"Lu, Sara",1469906,04 Mar 2024 19:18,Domestic,Undergraduate student,03/01/2005
+"LU, Yuhao",1423643,21 Feb 2024 14:20,International,Graduate student,05122000
+"Lu, Yuyang",1535534,18 Feb 2024 22:31,International,Graduate student,31/05/2001
+"Luo, Han",1460617,19 Feb 2024 15:43,Domestic,Undergraduate student,17/10/2004
+"Luo, Nathan",1356382,23 Feb 2024 10:50,Domestic,Undergraduate student,15/12/2003
+"LUO, Peijing",1414260,21 Feb 2024 12:00,International,Undergraduate student,03/10/2000
+"Luo, Samuel",1616796,23 Feb 2024 17:42,Domestic,Undergraduate student,06/10/2005
+"Luu, Du-Mi",1463685,21 Feb 2024 12:40,Domestic,Undergraduate student,30/07/2004
+"Ma, Hayden",1615036,21 Feb 2024 21:50,Domestic,Undergraduate student,24/12/2007
+"Ma, Lilian",1472968,27 Feb 2024 11:49,Domestic,Undergraduate student,15/11/2004
+"Mahesh, Ameya",1616300,21 Feb 2024 12:08,Domestic,Undergraduate student,28/05/2006
+"Makhloga, Vaibhav Singh",1424591,11 Feb 2024 13:25,International,Graduate student,24/02/1999
+"Malempati, Manu",1605627,24 Feb 2024 10:31,Domestic,Undergraduate student,19/09/2005
+"Marks, Jamie",1382410,21 Feb 2024 12:22,Domestic,Undergraduate student,21/10/2004
+"Maron, Eliana",1269463,17 Feb 2024 12:40,Domestic,Undergraduate student,19/07/2002
+"Meng, Barry",1463927,26 Feb 2024 00:14,Domestic,Undergraduate student,19/10/2004
+"Meng, Kexin",1447619,08 Mar 2024 00:12,International,Undergraduate student,02/01/2004
+"Mohd Khairudin, Izzah Dalila",1268317,27 Feb 2024 14:54,Domestic,Undergraduate student,30/08/2002
+"Moncherry, Abraham",1363518,12 Mar 2024 22:07,International,Undergraduate student,18/08/2002
+"Monigatti, Josh",1530865,27 Feb 2024 09:16,Domestic,Graduate student,11/04/2000
+"Muir, Nicholas",1356310,02 Mar 2024 20:03,Domestic,Undergraduate student,09/09/20003
+"Mukherjee, Rishi",1463820,07 Mar 2024 23:13,Domestic,Undergraduate student,08/03/2005
+"NA, YOONHO",1536496,19 Feb 2024 18:18,International,Undergraduate student,13062001
+"Nair, Soumya Lohit",1636102,27 Feb 2024 05:21,International,Undergraduate student,05/06/2004
+"Ng, Jacob",1616595,23 Feb 2024 22:54,Domestic,Undergraduate student,18/04/2006
+"NGUYEN, DINH PHUC",1340053,21 Feb 2024 13:45,Domestic,Undergraduate student,15/06/2003
+"Nguyen, Du-Simon",1352062,21 Feb 2024 12:11,Domestic,Undergraduate student,11/08/2003
+"Nguyen, Ha Linh",1482069,21 Feb 2024 13:21,International,Undergraduate student,21/10/2005
+"Nguyen, Hoang Thanh Lam",1375252,12 Mar 2024 23:53,International,Undergraduate student,20/08/2004
+"Nguyen, Phan Minh Quan",1450700,08 Mar 2024 16:07,International,Undergraduate student,24/08/2003
+"NGUYEN, THI HONG HANH",1379597,21 Feb 2024 11:23,International,Graduate student,21/11/1997
+"NGUYEN, THI HONG NGOC",1372155,21 Feb 2024 11:24,International,Graduate student,06/05/2001
+"NIE, ZEMING",1552632,04 Mar 2024 01:50,International,Undergraduate student,03/05/2004
+"Nie, Zoe Erya",1616109,20 Feb 2024 19:37,Domestic,Undergraduate student,18/01/2006
+"NIU, YIHANG",1493572,01 Mar 2024 23:50,International,Graduate student,08/06/1996
+"O'Brien, Elle",1053885,28 Feb 2024 16:36,Domestic,Graduate student,20/09/1996
+"Ojha, Rabindra",1368727,20 Feb 2024 03:09,International,Graduate student,28/11/2001
+"Ong, Ray",766494,23 Feb 2024 22:15,Domestic,Graduate student,13/02/1997
+"Pai, Pranav",1536042,21 Feb 2024 12:47,International,Graduate student,22/04/2001
+"Panta, Jeeban",1615423,25 Feb 2024 13:34,Domestic,Undergraduate student,17/12/2005
+"Papadopoulos, Dionysos",1270414,27 Feb 2024 18:09,Domestic,Undergraduate student,03/09/2002
+"Patel, Jainil",1265947,25 Feb 2024 13:30,Domestic,Undergraduate student,01/06/2002
+"Patel, Urvik Harshadkumar",1440623,21 Feb 2024 01:01,International,Graduate student,04/02/2001
+"Paul, Avnee",1625144,07 Mar 2024 10:31,Domestic,Undergraduate student,12/12/2005
+"Paul, Debomita",1550602,23 Feb 2024 23:14,International,Graduate student,21/02/2002
+"Pawar, Laranya",1496491,24 Feb 2024 18:29,International,Undergraduate student,08/05/2005
+"Pedersson, Lucas",1355937,19 Feb 2024 14:55,Domestic,Undergraduate student,29/01/2004
+"Perry, Han",693878,05 Feb 2024 00:39,Domestic,Graduate student,--/--/----
+"Pham, Elizabeth",1359605,21 Feb 2024 12:22,Domestic,Undergraduate student,09/06/2004
+"Pham, NATHAN",1444423,22 Feb 2024 14:11,Domestic,Undergraduate student,09/09/2005
+"Phan, Jeff",1577799,04 Mar 2024 19:05,Domestic,Graduate student,20/04/1996
+"Potu, Shwethan",1625326,25 Feb 2024 21:23,Domestic,Undergraduate student,02/12/205
+"Pratama, Dhita Putri",1521894,22 Feb 2024 13:20,International,Graduate student,10/08/2000
+"Purcell, Jonathan",1254173,04 Feb 2024 18:07,Domestic,Undergraduate student,09/05/2004
+"Puri, Mahika",1616152,02 Feb 2024 15:59,Domestic,Undergraduate student,01/07/2006
+"Qamareen, Farah",1352360,15 Feb 2024 21:09,Domestic,Undergraduate student,13/09/2003
+"Qian, Jiahao",1604624,19 Feb 2024 13:41,Domestic,Undergraduate student,23/08/2005
+"QIAN, Jing",1535016,03 Mar 2024 02:44,International,Undergraduate student,01/01/2005
+"Qiu, Yu",1615904,21 Feb 2024 11:53,Domestic,Undergraduate student,19/04/2005
+"Quah, Chermaine",1460530,29 Feb 2024 11:39,Domestic,Undergraduate student,03/08/2004
+"Quevedo, Darelle",1170926,08 Mar 2024 22:59,Domestic,Undergraduate student,11/07/2001
+"Ramli, Joesefh",1585161,21 Feb 2024 00:55,International,Graduate student,24/09/1997
+"Rehman, Mohammad",1615920,20 Feb 2024 13:06,Domestic,Undergraduate student,16/05/2005
+"Ricketson, Liam",1615557,19 Feb 2024 17:00,Domestic,Undergraduate student,09/01/2006
+"Roger, Eleanor",1460192,28 Feb 2024 11:28,Domestic,Undergraduate student,13/08/2004
+"RUSTAGI, ABHIN",1486974,07 Feb 2024 06:47,International,Graduate student,27/02/2001
+"Salian, Ananya",1615940,04 Feb 2024 13:02,Domestic,Undergraduate student,26/12/2005
+"Salian, Arnav Rajesh",1539476,19 Feb 2024 16:18,International,Undergraduate student,02/11/2005
+"Samarakoon, Melani",1615978,25 Feb 2024 09:54,Domestic,Undergraduate student,29/10/2005
+"Samdaria, Aadesh",1363757,29 Feb 2024 22:56,International,Graduate student,14/05/1998
+"Sanares, Lorraine Avriella",1472627,21 Feb 2024 12:10,Domestic,Undergraduate student,05/05/04
+"Say, Noah",1503696,27 Feb 2024 01:17,International,Undergraduate student,22/07/2004
+"Sekhon, Sagar Singh",1537694,10 Mar 2024 14:54,Domestic,Undergraduate student,30/08/1995
+"SELVARAJPRABAKARAN, AJITH",1539182,23 Feb 2024 11:28,International,Graduate student,19/03/2000
+"Seo, Haewon",1556034,16 Feb 2024 21:24,International,Undergraduate student,01/05/2002
+"Seshadari, Ashwin",1136482,12 Mar 2024 09:20,International,Undergraduate student,05/10/2000
+"Sevastyanova, Veronika",1355833,22 Feb 2024 08:19,Domestic,Undergraduate student,24/01/2004
+"Shafaryantoro, Muhammad",1397084,22 Feb 2024 00:25,International,Graduate student,10/06/1997
+"Shah, Kevin",1461793,11 Mar 2024 15:55,Domestic,Undergraduate student,18/06/2004
+"SHAN, Yilin",1556663,21 Feb 2024 12:13,International,Graduate student,27/08/2002
+"Shepherdson, Lewis",1609021,21 Feb 2024 11:18,Domestic,Undergraduate student,29/07/2005
+"Shi, Jiaxuan",1312618,28 Feb 2024 18:35,International,Graduate student,25/12/1999
+"Siddiqui, Ashar",1484589,23 Feb 2024 15:03,International,Graduate student,08/03/2000
+"Siek, Kenneth Lim",1409447,21 Feb 2024 12:09,International,Undergraduate student,05/12/2003
+"Silalahi, Tobias Ivandito Margogo",1370830,04 Mar 2024 22:15,International,Graduate student,26/10/1998
+"Soh, Ee Von",1195562,25 Feb 2024 17:03,International,Undergraduate student,14/08/2001
+"Song, Edward",1453516,23 Feb 2024 14:12,Domestic,Undergraduate student,13/01/2006
+"Song, Kwangsuk",989851,28 Feb 2024 15:51,Domestic,Undergraduate student,10/07/2000
+"Soon, Samantha Yi Hui",1553589,28 Feb 2024 16:45,International,Undergraduate student,05/08/06
+"Spanger, Cassidy",1356157,07 Mar 2024 14:05,Domestic,Undergraduate student,19/12/2003
+"Srinivas, Shyam",1499596,20 Feb 2024 22:01,Domestic,Graduate student,24/05/2000
+"Stergiopoulos, George",1615180,05 Feb 2024 22:56,Domestic,Undergraduate student,11/05/2005
+"Stow, Molly",1356089,19 Feb 2024 16:58,Domestic,Undergraduate student,30/11/2003
+"Striega, Kai",1436819,26 Feb 2024 15:24,Domestic,Graduate student,05/03/1995
+"SU, Yewen",1516430,08 Mar 2024 11:57,International,Graduate student,29/11/2001
+"Su, Yiling",1081922,15 Feb 2024 20:55,Domestic,Undergraduate student,08/02/2000
+"Sun, Grace",1375819,21 Feb 2024 14:03,International,Undergraduate student,18/05/2004
+"Sun, Kailun",1616992,21 Feb 2024 13:00,Domestic,Undergraduate student,18/01/2005
+"Sunjaya, Bryan Alfason",1545799,22 Feb 2024 17:35,International,Graduate student,05/03/1999
+"Sy, Justin Alexander",1462722,13 Mar 2024 00:58,Domestic,Undergraduate student,13/04/2004
+"Tang Wai, William Alexander",1418035,23 Feb 2024 11:36,International,Undergraduate student,11/09/2003
+"Tang, Hanshi",1266337,04 Mar 2024 11:29,International,Undergraduate student,24/12/2002
+"Tang, Yi Shu",1616164,19 Feb 2024 15:18,Domestic,Undergraduate student,24/08/2005
+"Tasha, Nova",1385214,03 Mar 2024 16:26,International,Undergraduate student,15/11/2000
+"Taylor, Jake",1353894,21 Feb 2024 12:37,Domestic,Undergraduate student,21/02/2004
+"Tew, Evelyn",1480688,05 Mar 2024 16:00,Domestic,Undergraduate student,19/02/2003
+"Thakker, Trisha",1617333,21 Feb 2024 13:07,Domestic,Undergraduate student,21/06/2004
+"Thomas, Eby",1536916,18 Feb 2024 14:31,International,Graduate student,23/05/2000
+"Thomas, Thomson",1616538,16 Feb 2024 14:27,Domestic,Undergraduate student,06/01/2006
+"Tirta, Enrico",1453752,02 Feb 2024 16:42,Domestic,Undergraduate student,12/05/2004
+"TIWA, VIANE DORTHEA",1413279,13 Mar 2024 11:47,International,Graduate student,21/01/1992
+"To, Kalliroe",1353696,19 Feb 2024 14:55,Domestic,Undergraduate student,26/11/2003
+"Tran, Duy Thinh",1369324,03 Mar 2024 21:54,International,Undergraduate student,25/11/2004
+"Tsai, Chi-Yu",1548035,01 Mar 2024 20:07,International,Graduate student,07/03/2000
+"Turai, Anjaneya Krishna",1391922,21 Feb 2024 13:50,International,Graduate student,08/04/2001
+"Utter, William",1444968,08 Mar 2024 00:16,Domestic,Undergraduate student,26/09/2003
+"Vathna, Pavit",1235224,04 Mar 2024 21:22,International,Undergraduate student,09/09/2003
+"VELAMBATH, SHARAN",1443562,11 Feb 2024 03:25,International,Undergraduate student,30/07/2003
+"Verma, Dhruv",1615371,21 Feb 2024 12:26,Domestic,Undergraduate student,01/01/2006
+"Vu, Lam",1545225,18 Feb 2024 10:32,Domestic,Graduate student,21/04/1982
+"Wang, Di",1353637,26 Feb 2024 21:22,Domestic,Undergraduate student,24/12/2003
+"Wang, Jichen",843711,05 Mar 2024 21:57,Domestic,Undergraduate student,28/02/1993
+"WANG, Man",1420398,19 Feb 2024 15:22,International,Undergraduate student,14/06/2005
+"Wang, Yubo",1455881,27 Feb 2024 10:27,Domestic,Undergraduate student,18/05/2004
+"WANG, Zi-Yu",1560831,12 Mar 2024 09:21,International,Graduate student,03/01/2000
+"Wei, Sijia",1455894,05 Mar 2024 13:58,International,Undergraduate student,26/12/26
+"Wei, Zhongqi",1528735,01 Mar 2024 00:06,International,Graduate student,13/05/1997
+"Weng, Jing-Shiang",1334231,10 Feb 2024 14:44,International,Undergraduate student,11/03/2004
+"Widjaja, Benedict",1610550,21 Feb 2024 14:38,Domestic,Undergraduate student,20/05/2006
+"WIDJAJA, RENZIO",1518754,19 Feb 2024 13:26,International,Undergraduate student,02/03/2005
+"Wong, Alyssa",1445039,06 Mar 2024 21:13,Domestic,Undergraduate student,28/11/2005
+"Wong, Claire",1441983,28 Feb 2024 17:10,Domestic,Undergraduate student,16/09/2005
+"Wong, Rebecca Khai Yin",1414616,21 Feb 2024 14:03,International,Undergraduate student,20/02/2004
+"Wongso, Kathleen",1343015,04 Mar 2024 14:28,International,Undergraduate student,24/07/2004
+"Wotherspoon, Dylan",1609396,19 Feb 2024 13:42,Domestic,Undergraduate student,12/11/2005
+"Wright, Aden",1268484,23 Feb 2024 12:59,Domestic,Undergraduate student,20/05/2002
+"Wu, Wen Hao",1267950,21 Feb 2024 11:41,International,Graduate student,01/08/2001
+"XIANG, Zhen",1482261,16 Feb 2024 16:16,International,Undergraduate student,28/01/2004
+"Xiao, Kan",1254949,29 Feb 2024 15:08,International,Undergraduate student,08/03/2001
+"Xie, Junkai",1610013,21 Feb 2024 12:19,International,Undergraduate student,28/06/2005
+"Xu, Emma",1615892,21 Feb 2024 13:58,Domestic,Undergraduate student,09/10/2005
+"Xu, Jane",1353348,05 Mar 2024 13:18,Domestic,Undergraduate student,22/05/2003
+"Xu, Ke",1455997,24 Feb 2024 19:36,International,Undergraduate student,05/02/2004
+"Xu, Shigen",1352870,28 Feb 2024 11:49,Domestic,Undergraduate student,02/09/2003
+"Xue, Ming",1366381,08 Mar 2024 15:47,International,Undergraduate student,04/10/1996
+"Xue, Xue",1078259,12 Feb 2024 20:05,Domestic,Graduate student,27/12/1999
+"Yadav, Aditya",1453701,29 Feb 2024 15:30,Domestic,Undergraduate student,08/10/2004
+"Yan, Zhengrong Yan (David)",1343546,17 Feb 2024 22:52,International,Undergraduate student,30/04/2004
+"Yang, Charmaine",1524308,24 Feb 2024 17:19,International,Undergraduate student,26/09/2005
+"Yarravajhala, Aditya",1442991,19 Feb 2024 20:00,Domestic,Undergraduate student,04/08/2005
+"Yasin, Ahmad",1408128,06 Feb 2024 15:06,International,Undergraduate student,27/03/2004
+"Yesudas, Michael Nathan",1559497,07 Feb 2024 15:37,Domestic,Graduate student,03/06/1999
+"Yong, Lydia",1281890,24 Feb 2024 19:44,International,Undergraduate student,21/08/2002
+"Yu, Eric",1617155,25 Feb 2024 20:30,Domestic,Undergraduate student,15/03/2005
+"Yu, Le",1616072,21 Feb 2024 11:23,Domestic,Undergraduate student,30/01/2005
+"Yusup, Annisa Chyntia",1528365,05 Mar 2024 07:30,International,Graduate student,27/08/1996
+"Zhang, Caroline",1524317,25 Feb 2024 21:57,International,Undergraduate student,14/03/2005
+"Zhang, Eric",1626101,21 Feb 2024 12:23,Domestic,Undergraduate student,09/04/2006
+"Zhang, Jacqueline",1353359,28 Feb 2024 10:54,Domestic,Undergraduate student,09/08/2003
+"Zhang, Jiachen",1399536,26 Feb 2024 16:37,Domestic,Undergraduate student,16/08/2003
+"Zhang, Junyi",1355970,27 Feb 2024 23:12,Domestic,Undergraduate student,23/12/2003
+"Zhang, Ray",1462534,19 Feb 2024 12:10,Domestic,Undergraduate student,20/07/2004
+"Zhao, Rui qi",1615700,19 Feb 2024 15:59,Domestic,Undergraduate student,08082005
+"ZHAO, Zihan",1449747,21 Feb 2024 12:50,International,Graduate student,05/06/2001
+"Zhu, Lin Xiao",1452996,25 Feb 2024 13:49,Domestic,Undergraduate student,19/06/2005
+"ZHU, TONG",1368179,29 Feb 2024 14:48,International,Graduate student,06/01/2000
+"Zouki, Kevin",1518196,02 Mar 2024 06:56,Domestic,Graduate student,08/10/1993
