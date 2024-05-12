@@ -1,62 +1,59 @@
 require('dotenv').config();
-const path1 = require('path');
+const path = require('path');
 const fs = require('node:fs');
-const path = require('node:path');
+const fsAsync = require('node:fs/promises');
 const { parse } = require('csv-parse');
-const { token } = process.env;
-const  csv_path  = path1.join(__dirname, 'Book1.csv');
 
-const studentData = {
-    NAMES : [],
-    STUDENT_ID : [],
-    JOIN_DATE : [],
-    REIGON : [],
-    TYPE : [],
-    DOB : [],
-    DISCORD : [],
-}
+// Path to the CSV file
+const rawDataFilePath  = path.join(__dirname, 'input.csv');
 
-const data = [];
+// Path to the JSON file
+const databaseFilePath  = path.join(__dirname, 'database.json');
 
-async function readDataFromCSV() {
-  return new Promise((resolve, reject) => {
-    const data = []
-    fs.createReadStream(csv_path)
-      .pipe(parse({ delimier: ',', columns: true, ltrim: true }))
-      .on('data', function(row) {
-        data.push(row);
-      })
-      .on('error', function(error) {
-        console.error(error);
-        reject(error)
-      })
-      .on('end', function() {
-        console.log('finished');
-        data.forEach((data1) => {
-          if (!data1.DISCORD) {
-            data1.DISCORD = '';
-          }
-        });
-        resolve(data);
-      });
-  })
-}
-
-function writeDataToCSV(student_data) {
-  const csv = student_data.map((row) => {
-    return `${row.Name},${row.StudentID},${row['Join Date']},${row['Are you a domestic or international student?']},${row['Are you an Undergraduate or Graduate student?']},${row['Date of Birth (dd/mm/yyyy format)']},${row.DISCORD}`;
-  }).join('\n');
-  fs.writeFile('output.csv', csv, err => {
-    if (err) {
-        console.error('Error writing to file:', err);
-        return;
+async function readDataFromCSV(path) {
+  const records = [];
+  const parser = fs
+    .createReadStream(path)
+    .pipe(parse({ 
+      delimier: ',', 
+      columns: true, 
+      ltrim: true 
+    }));
+  for await (const record of parser) {
+    // Work with each record
+    records.push(record);
+    if (!record.DISCORD) {
+      record.DISCORD = '';
     }
-    console.log('CSV file written successfully.');
-  });
+  }
+  return records;
+}
+
+async function readDataFromJSON(path) {
+  const string = await fsAsync.readFile(path, 'utf8');
+  try {
+    return JSON.parse(string);
+  } catch (error) {
+    console.error('Error while parsing JSON data:', err);
+    return {};
+  }
+}
+
+async function writeDataToJSON(studentData) {
+  const data = JSON.stringify(studentData, null, 2);
+
+  try {
+    await fsAsync.writeFile(databaseFilePath, data);
+    console.log('JSON data written successfully.');
+  } catch (error) {
+    console.error('Error writing to file:', err);
+  }
 }
 
 module.exports = {
-    data,
-    readDataFromCSV,
-    writeDataToCSV
+  rawDataFilePath,
+  databaseFilePath,
+  readDataFromCSV,
+  readDataFromJSON,
+  writeDataToJSON,
 };

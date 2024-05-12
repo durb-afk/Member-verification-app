@@ -1,7 +1,7 @@
 {
-  "name": "getting-started",
+  "name": "member-verification-bot",
   "version": "1.0.0",
-  "description": "Discord example app",
+  "description": "Discord bot to help students verify their DS Cubed membership",
   "main": "app.js",
   "type": "module",
   "engines": {
@@ -12,8 +12,6 @@
     "register": "node commands.js",
     "dev": "nodemon app.js"
   },
-  "author": "Shay DeWael",
-  "license": "MIT",
   "dependencies": {
     "csv-parse": "^5.5.5",
     "csv-parser": "^3.0.0",
